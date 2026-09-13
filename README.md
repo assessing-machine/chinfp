@@ -1,1 +1,1 @@
-### Thingking Machine (chinfp)
+### Assessing Machine (chinfp)
